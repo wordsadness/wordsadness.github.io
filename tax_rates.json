@@ -1,0 +1,1354 @@
+{
+  "schema": "tiptaxes.v1",
+  "version": 1,
+  "generatedAt": "2025-11-27T21:50:32Z",
+  "states": {
+    "AL": {
+      "stateSalesOrGRT": 0.04,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "AK": {
+      "stateSalesOrGRT": 0.0,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "AZ": {
+      "stateSalesOrGRT": 0.056,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "AR": {
+      "stateSalesOrGRT": 0.065,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "CA": {
+      "stateSalesOrGRT": 0.0725,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "CO": {
+      "stateSalesOrGRT": 0.029,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "CT": {
+      "stateSalesOrGRT": 0.0635,
+      "stateMealsSurcharge": 0.01,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "DE": {
+      "stateSalesOrGRT": 0.0,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "FL": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "GA": {
+      "stateSalesOrGRT": 0.04,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "HI": {
+      "stateSalesOrGRT": 0.04,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "ID": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "IL": {
+      "stateSalesOrGRT": 0.0625,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "IN": {
+      "stateSalesOrGRT": 0.07,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "IA": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "KS": {
+      "stateSalesOrGRT": 0.065,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "KY": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "LA": {
+      "stateSalesOrGRT": 0.0445,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "ME": {
+      "stateSalesOrGRT": 0.08,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MD": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MA": {
+      "stateSalesOrGRT": 0.0625,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MI": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MN": {
+      "stateSalesOrGRT": 0.06875,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MS": {
+      "stateSalesOrGRT": 0.07,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MO": {
+      "stateSalesOrGRT": 0.04225,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "MT": {
+      "stateSalesOrGRT": 0.0,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NE": {
+      "stateSalesOrGRT": 0.055,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NV": {
+      "stateSalesOrGRT": 0.0685,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NH": {
+      "stateSalesOrGRT": 0.085,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NJ": {
+      "stateSalesOrGRT": 0.06625,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NM": {
+      "stateSalesOrGRT": 0.04875,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NY": {
+      "stateSalesOrGRT": 0.04,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "NC": {
+      "stateSalesOrGRT": 0.0475,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "ND": {
+      "stateSalesOrGRT": 0.05,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "OH": {
+      "stateSalesOrGRT": 0.0575,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "OK": {
+      "stateSalesOrGRT": 0.045,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "OR": {
+      "stateSalesOrGRT": 0.0,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "PA": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "RI": {
+      "stateSalesOrGRT": 0.07,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.01,
+      "specialDistricts": 0.0
+    },
+    "SC": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "SD": {
+      "stateSalesOrGRT": 0.042,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "TN": {
+      "stateSalesOrGRT": 0.07,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "TX": {
+      "stateSalesOrGRT": 0.0625,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "UT": {
+      "stateSalesOrGRT": 0.0485,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "VT": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.03,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "VA": {
+      "stateSalesOrGRT": 0.053,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "WA": {
+      "stateSalesOrGRT": 0.065,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "WV": {
+      "stateSalesOrGRT": 0.06,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "WI": {
+      "stateSalesOrGRT": 0.05,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "WY": {
+      "stateSalesOrGRT": 0.04,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    },
+    "DC": {
+      "stateSalesOrGRT": 0.1,
+      "stateMealsSurcharge": 0.0,
+      "localGeneralSales": 0.0,
+      "localMealsOrHospitality": 0.0,
+      "specialDistricts": 0.0
+    }
+  },
+  "cities": {
+    "MA": [
+      {
+        "name": "Boston",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0.0075,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Cambridge",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0.0075,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Lowell",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0.0075,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Springfield",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0.0075,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Worcester",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0.0075,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "VA": [
+      {
+        "name": "Arlington",
+        "components": {
+          "stateSalesOrGRT": 0.053,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.007,
+          "localMealsOrHospitality": 0.05,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Richmond",
+        "components": {
+          "stateSalesOrGRT": 0.053,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.007,
+          "localMealsOrHospitality": 0.075,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Norfolk",
+        "components": {
+          "stateSalesOrGRT": 0.053,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.007,
+          "localMealsOrHospitality": 0.065,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Chesapeake",
+        "components": {
+          "stateSalesOrGRT": 0.053,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.007,
+          "localMealsOrHospitality": 0.06,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Virginia Beach",
+        "components": {
+          "stateSalesOrGRT": 0.053,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.007,
+          "localMealsOrHospitality": 0.055,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "IL": [
+      {
+        "name": "Chicago",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04,
+          "localMealsOrHospitality": 0.005,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Aurora",
+        "components": {
+          "stateSalesOrGRT": 0.0825,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Joliet",
+        "components": {
+          "stateSalesOrGRT": 0.0875,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Naperville",
+        "components": {
+          "stateSalesOrGRT": 0.0775,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Rockford",
+        "components": {
+          "stateSalesOrGRT": 0.0875,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "CA": [
+      {
+        "name": "Los Angeles",
+        "components": {
+          "stateSalesOrGRT": 0.0725,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.03,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Oakland",
+        "components": {
+          "stateSalesOrGRT": 0.0725,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.035,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "San Diego",
+        "components": {
+          "stateSalesOrGRT": 0.0725,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.005,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "San Francisco",
+        "components": {
+          "stateSalesOrGRT": 0.0725,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01375,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "San Jose",
+        "components": {
+          "stateSalesOrGRT": 0.0725,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02125,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "WA": [
+      {
+        "name": "Seattle",
+        "components": {
+          "stateSalesOrGRT": 0.065,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0385,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Bellevue",
+        "components": {
+          "stateSalesOrGRT": 0.065,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.037,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Tacoma",
+        "components": {
+          "stateSalesOrGRT": 0.065,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.037,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Spokane",
+        "components": {
+          "stateSalesOrGRT": 0.065,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.025,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Vancouver",
+        "components": {
+          "stateSalesOrGRT": 0.065,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.021,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "NC": [
+      {
+        "name": "Charlotte",
+        "components": {
+          "stateSalesOrGRT": 0.0475,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.025,
+          "localMealsOrHospitality": 0.01,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Durham",
+        "components": {
+          "stateSalesOrGRT": 0.0475,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0275,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Greensboro",
+        "components": {
+          "stateSalesOrGRT": 0.0475,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Raleigh",
+        "components": {
+          "stateSalesOrGRT": 0.0475,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.025,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Winston-Salem",
+        "components": {
+          "stateSalesOrGRT": 0.0475,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0225,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "PA": [
+      {
+        "name": "Philadelphia",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Pittsburgh",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Allentown",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Erie",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Reading",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "NY": [
+      {
+        "name": "New York City",
+        "components": {
+          "stateSalesOrGRT": 0.04,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04875,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Buffalo",
+        "components": {
+          "stateSalesOrGRT": 0.04,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0475,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Rochester",
+        "components": {
+          "stateSalesOrGRT": 0.04,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Syracuse",
+        "components": {
+          "stateSalesOrGRT": 0.04,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Albany",
+        "components": {
+          "stateSalesOrGRT": 0.04,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "FL": [
+      {
+        "name": "Miami",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Orlando",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.005,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Tampa",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.015,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Fort Lauderdale",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Jacksonville",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.015,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "AZ": [
+      {
+        "name": "Phoenix",
+        "components": {
+          "stateSalesOrGRT": 0.056,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.03,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Mesa",
+        "components": {
+          "stateSalesOrGRT": 0.056,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0245,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Chandler",
+        "components": {
+          "stateSalesOrGRT": 0.056,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.022,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Scottsdale",
+        "components": {
+          "stateSalesOrGRT": 0.056,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0235,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Tucson",
+        "components": {
+          "stateSalesOrGRT": 0.056,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.031,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "CO": [
+      {
+        "name": "Denver",
+        "components": {
+          "stateSalesOrGRT": 0.029,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0591,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Aurora",
+        "components": {
+          "stateSalesOrGRT": 0.029,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0585,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Colorado Springs",
+        "components": {
+          "stateSalesOrGRT": 0.029,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0535,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Boulder",
+        "components": {
+          "stateSalesOrGRT": 0.029,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.05895,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Fort Collins",
+        "components": {
+          "stateSalesOrGRT": 0.029,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.046,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "LA": [
+      {
+        "name": "New Orleans",
+        "components": {
+          "stateSalesOrGRT": 0.0445,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.05,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0.0
+        }
+      },
+      {
+        "name": "Baton Rouge",
+        "components": {
+          "stateSalesOrGRT": 0.0445,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.055,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0.0
+        }
+      },
+      {
+        "name": "Lafayette",
+        "components": {
+          "stateSalesOrGRT": 0.0445,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0.0
+        }
+      },
+      {
+        "name": "Lake Charles",
+        "components": {
+          "stateSalesOrGRT": 0.0445,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0475,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0.0
+        }
+      },
+      {
+        "name": "Shreveport",
+        "components": {
+          "stateSalesOrGRT": 0.0445,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0515,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0.0
+        }
+      }
+    ],
+    "MD": [
+      {
+        "name": "Baltimore",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Columbia",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Frederick",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Gaithersburg",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Rockville",
+        "components": {
+          "stateSalesOrGRT": 0.06,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "MO": [
+      {
+        "name": "Kansas City",
+        "components": {
+          "stateSalesOrGRT": 0.04225,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.049,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "St. Louis",
+        "components": {
+          "stateSalesOrGRT": 0.04225,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.05454,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Columbia",
+        "components": {
+          "stateSalesOrGRT": 0.04225,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04175,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Springfield",
+        "components": {
+          "stateSalesOrGRT": 0.04225,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.03875,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Independence",
+        "components": {
+          "stateSalesOrGRT": 0.04225,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.04775,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "TN": [
+      {
+        "name": "Nashville",
+        "components": {
+          "stateSalesOrGRT": 0.07,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0275,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Memphis",
+        "components": {
+          "stateSalesOrGRT": 0.07,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0275,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Knoxville",
+        "components": {
+          "stateSalesOrGRT": 0.07,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0225,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Chattanooga",
+        "components": {
+          "stateSalesOrGRT": 0.07,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0225,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Clarksville",
+        "components": {
+          "stateSalesOrGRT": 0.07,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.025,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "TX": [
+      {
+        "name": "Austin",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Dallas",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Fort Worth",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Houston",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "San Antonio",
+        "components": {
+          "stateSalesOrGRT": 0.0625,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.02,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "NV": [
+      {
+        "name": "Las Vegas",
+        "components": {
+          "stateSalesOrGRT": 0.0685,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01525,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Henderson",
+        "components": {
+          "stateSalesOrGRT": 0.0685,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01525,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "North Las Vegas",
+        "components": {
+          "stateSalesOrGRT": 0.0685,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01525,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Reno",
+        "components": {
+          "stateSalesOrGRT": 0.0685,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01415,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Sparks",
+        "components": {
+          "stateSalesOrGRT": 0.0685,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01415,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "OH": [
+      {
+        "name": "Columbus",
+        "components": {
+          "stateSalesOrGRT": 0.0575,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0175,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Cleveland",
+        "components": {
+          "stateSalesOrGRT": 0.0575,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0225,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Cincinnati",
+        "components": {
+          "stateSalesOrGRT": 0.0575,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.0205,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Akron",
+        "components": {
+          "stateSalesOrGRT": 0.0575,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.01,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Toledo",
+        "components": {
+          "stateSalesOrGRT": 0.0575,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0.015,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ],
+    "OR": [
+      {
+        "name": "Portland",
+        "components": {
+          "stateSalesOrGRT": 0,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Eugene",
+        "components": {
+          "stateSalesOrGRT": 0,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Gresham",
+        "components": {
+          "stateSalesOrGRT": 0,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Hillsboro",
+        "components": {
+          "stateSalesOrGRT": 0,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      },
+      {
+        "name": "Salem",
+        "components": {
+          "stateSalesOrGRT": 0,
+          "stateMealsSurcharge": 0,
+          "localGeneralSales": 0,
+          "localMealsOrHospitality": 0,
+          "specialDistricts": 0
+        }
+      }
+    ]
+  }
+}
