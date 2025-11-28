@@ -544,7 +544,7 @@
         "components": {
           "stateSalesOrGRT": 0.0725,
           "stateMealsSurcharge": 0,
-          "localGeneralSales": 0.008,
+          "localGeneralSales": 0.005,
           "localMealsOrHospitality": 0,
           "specialDistricts": 0
         }
