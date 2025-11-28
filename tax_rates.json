@@ -542,7 +542,7 @@
       {
         "name": "San Diego",
         "components": {
-          "stateSalesOrGRT": 0.0725,
+          "stateSalesOrGRT": 0.0825,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.005,
           "localMealsOrHospitality": 0,
