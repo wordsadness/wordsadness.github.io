@@ -1,0 +1,104 @@
+name: Update exchange rates
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-exchange-rates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest USD exchange rates
+        run: |
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-delay 5 \
+            "https://open.er-api.com/v6/latest/USD" \
+            --output "$RUNNER_TEMP/exchange-rates-response.json"
+
+      - name: Generate exchange_rates.json
+        run: |
+          python <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          required_currencies = [
+              "USD",
+              "CNY",
+              "EUR",
+              "JPY",
+              "KRW",
+              "GBP",
+              "BRL",
+              "CAD",
+              "MXN",
+              "AUD",
+          ]
+
+          response_path = os.path.join(
+              os.environ["RUNNER_TEMP"], "exchange-rates-response.json"
+          )
+          output_path = "exchange_rates.json"
+          temp_output_path = f"{output_path}.tmp"
+
+          with open(response_path, "r", encoding="utf-8") as response_file:
+              data = json.load(response_file)
+
+          if data.get("result") != "success":
+              raise RuntimeError(f"Exchange rate API returned result={data.get('result')!r}")
+
+          if data.get("base_code") != "USD":
+              raise RuntimeError(f"Exchange rate API returned base_code={data.get('base_code')!r}")
+
+          rates = data.get("rates")
+          if not isinstance(rates, dict):
+              raise RuntimeError("Exchange rate API response is missing a rates object")
+
+          filtered_rates = {}
+          for currency in required_currencies:
+              if currency not in rates:
+                  raise RuntimeError(f"Exchange rate API response is missing {currency}")
+
+              rate = rates[currency]
+              if not isinstance(rate, (int, float)) or isinstance(rate, bool):
+                  raise RuntimeError(f"Exchange rate API returned invalid rate for {currency}")
+
+              filtered_rates[currency] = 1.0 if currency == "USD" else rate
+
+          document = {
+              "schema": "tipcurrency.v1",
+              "base": "USD",
+              "generatedAt": datetime.now(timezone.utc)
+              .replace(microsecond=0)
+              .isoformat()
+              .replace("+00:00", "Z"),
+              "rates": filtered_rates,
+          }
+
+          with open(temp_output_path, "w", encoding="utf-8") as output_file:
+              json.dump(document, output_file, indent=2)
+              output_file.write("\n")
+
+          os.replace(temp_output_path, output_path)
+          PY
+
+      - name: Commit exchange rate updates
+        run: |
+          if [ -z "$(git status --porcelain -- exchange_rates.json)" ]; then
+            echo "exchange_rates.json is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exchange_rates.json
+          git commit -m "Update exchange rates"
+          git push
