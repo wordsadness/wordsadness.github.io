@@ -1,7 +1,7 @@
 {
   "schema": "tipcurrency.v1",
   "base": "USD",
-  "generatedAt": "2026-05-31T01:59:49Z",
+  "generatedAt": "2026-05-31T07:06:12Z",
   "rates": {
     "USD": 1.0,
     "CNY": 6.786741,
