@@ -1,7 +1,7 @@
 {
   "schema": "tiptaxes.v1",
-  "version": 1,
-  "generatedAt": "2025-11-27T21:50:32Z",
+  "version": 2,
+  "generatedAt": "2026-06-03T00:00:00-07:00",
   "states": {
     "AL": {
       "stateSalesOrGRT": 0.04,
@@ -123,7 +123,7 @@
       "specialDistricts": 0.0
     },
     "LA": {
-      "stateSalesOrGRT": 0.0445,
+      "stateSalesOrGRT": 0.05,
       "stateMealsSurcharge": 0.0,
       "localGeneralSales": 0.0,
       "localMealsOrHospitality": 0.0,
@@ -461,7 +461,7 @@
           "stateSalesOrGRT": 0.053,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.007,
-          "localMealsOrHospitality": 0.055,
+          "localMealsOrHospitality": 0.06,
           "specialDistricts": 0
         }
       }
@@ -576,7 +576,7 @@
         "components": {
           "stateSalesOrGRT": 0.065,
           "stateMealsSurcharge": 0,
-          "localGeneralSales": 0.0385,
+          "localGeneralSales": 0.0405,
           "localMealsOrHospitality": 0,
           "specialDistricts": 0
         }
@@ -586,7 +586,7 @@
         "components": {
           "stateSalesOrGRT": 0.065,
           "stateMealsSurcharge": 0,
-          "localGeneralSales": 0.037,
+          "localGeneralSales": 0.038,
           "localMealsOrHospitality": 0,
           "specialDistricts": 0
         }
@@ -596,7 +596,7 @@
         "components": {
           "stateSalesOrGRT": 0.065,
           "stateMealsSurcharge": 0,
-          "localGeneralSales": 0.037,
+          "localGeneralSales": 0.039,
           "localMealsOrHospitality": 0,
           "specialDistricts": 0
         }
@@ -606,7 +606,7 @@
         "components": {
           "stateSalesOrGRT": 0.065,
           "stateMealsSurcharge": 0,
-          "localGeneralSales": 0.025,
+          "localGeneralSales": 0.026,
           "localMealsOrHospitality": 0,
           "specialDistricts": 0
         }
@@ -616,7 +616,7 @@
         "components": {
           "stateSalesOrGRT": 0.065,
           "stateMealsSurcharge": 0,
-          "localGeneralSales": 0.021,
+          "localGeneralSales": 0.024,
           "localMealsOrHospitality": 0,
           "specialDistricts": 0
         }
@@ -938,7 +938,7 @@
       {
         "name": "New Orleans",
         "components": {
-          "stateSalesOrGRT": 0.0445,
+          "stateSalesOrGRT": 0.05,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.05,
           "localMealsOrHospitality": 0,
@@ -948,7 +948,7 @@
       {
         "name": "Baton Rouge",
         "components": {
-          "stateSalesOrGRT": 0.0445,
+          "stateSalesOrGRT": 0.05,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.055,
           "localMealsOrHospitality": 0,
@@ -958,7 +958,7 @@
       {
         "name": "Lafayette",
         "components": {
-          "stateSalesOrGRT": 0.0445,
+          "stateSalesOrGRT": 0.05,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.04,
           "localMealsOrHospitality": 0,
@@ -968,7 +968,7 @@
       {
         "name": "Lake Charles",
         "components": {
-          "stateSalesOrGRT": 0.0445,
+          "stateSalesOrGRT": 0.05,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.0475,
           "localMealsOrHospitality": 0,
@@ -978,7 +978,7 @@
       {
         "name": "Shreveport",
         "components": {
-          "stateSalesOrGRT": 0.0445,
+          "stateSalesOrGRT": 0.05,
           "stateMealsSurcharge": 0,
           "localGeneralSales": 0.0515,
           "localMealsOrHospitality": 0,
